@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harunya0" alt="harunya0" /></a> </p>
 
+- 🔭Target **Security Engineer at GMO**
+
+- 🌱 I’m currently learning **OS Development with Rust (Aiming for zero-unsafe!)**
+
+- 🏫 Current **1st-year KOSEN student**
+
 - 💬 Ask me about **Casual Chat**
 
 <h3 align="left">Connect with me:</h3>
