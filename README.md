@@ -6,19 +6,22 @@
 
 - 🔭Target **Security Engineer at GMO**
 
-- 🌱 I’m currently learning **OS Development with Rust (Aiming for zero-unsafe!)**
+- 🌱 Currently learning **OS Development with Rust**
+   — exploring safe abstractions around `unsafe`
 
 - 🏫 Current **1st-year KOSEN student**
 
 - 💬 Ask me about **Casual Chat**
 
-## Achievements
+## Projects & Achievements
 
-- Developed a RAG library in Rust
+- Developed **Rugst**, a RAG / knowledge retrieval library in Rust
 
-- Implemented FFI using the C ABI
+- Implemented a **C ABI** for cross-language interoperability
 
-- Provided a C# wrapper
+- Developed a **C# wrapper** for Rugst
+
+- Building AI applications using **Rust, C#, PostgreSQL, and LLM APIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
