@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wakanaharu(Rustacean)</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A developer from Japan exploring Rust, AI, and systems programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunya0&label=Profile%20views&color=0e75b6&style=flat" alt="harunya0" /> </p>
 
