@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunya0&label=Profile%20views&color=0e75b6&style=flat" alt="harunya0" /> </p>
 
 
-- 🔭Target **Security Engineer at GMO**
+- 🔭 Target: **Security Engineer at GMO**
 
 - 🌱 Currently learning **OS Development with Rust**
    — exploring safe abstractions around `unsafe`
 
-- 🏫 Current **1st-year KOSEN student**
+- 🏫 **1st-year KOSEN student**
 
 - 💬 Ask me about **Casual Chat**
 
