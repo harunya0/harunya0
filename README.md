@@ -23,6 +23,8 @@
 
 - Building AI applications using **Rust, C#, PostgreSQL, and LLM APIs**
 
+- Be sure to check out [my website](https://wakanaharu.com/)!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wakaharusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wakaharusa" height="30" width="40" /></a>
