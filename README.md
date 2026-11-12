@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunya0&label=Profile%20views&color=0e75b6&style=flat" alt="harunya0" /> </p>
 
-
-- 🔭 Target: **Security Engineer at GMO**
-
-- 🌱 Currently learning **OS Development with Rust**
-   — exploring safe abstractions around `unsafe`
-
-- 🏫 **1st-year KOSEN student**
-
 - 💬 Ask me about **Casual Chat**
 
 ## Projects & Achievements
@@ -21,7 +13,7 @@
 
 - Developed a **C# wrapper** for Rugst
 
-- Building AI applications using **Rust, C#, PostgreSQL, and LLM APIs**
+- Building AI applications using **Rust, C++**
 
 - Be sure to check out [my website](https://wakanaharu.com/)!
 
